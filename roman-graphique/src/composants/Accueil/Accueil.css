@@ -1,0 +1,111 @@
+
+
+
+.contenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+  padding:  20px;
+}
+img {
+  height: 350px;
+  width: 350px;
+  border-radius: 8px;
+}
+
+
+.page{
+    background: linear-gradient(to right, #171111, #eadddd);
+}
+.contenu h1 {
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+
+}
+
+/* Images bien visibles, jamais déformées */
+
+
+/* ---------- Escalier (en bas, centré sur la ligne entre A et B) ---------- */
+.escalier {
+    --u: 1.3px;
+    /* taille de l'escalier (augmente pour le agrandir) */
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.marche {
+    display: grid;
+    grid-template-columns: calc(440 * var(--u)) calc(340 * var(--u));
+}
+
+.noir,
+.blanc {
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+
+.noir {
+    background: #000;
+    justify-self: end;
+}
+
+.blanc {
+    background: #fff;
+    justify-self: start;
+    border-left: none;
+}
+
+.m0 .noir {
+    width: calc(30 * var(--u));
+    height: calc(50 * var(--u));
+}
+
+.m0 .blanc {
+    width: calc(30 * var(--u));
+    height: calc(50 * var(--u));
+}
+.m1 .noir {
+    width: calc(60 * var(--u));
+    height: calc(80 * var(--u));
+}
+
+.m1 .blanc {
+    width: calc(60 * var(--u));
+    height: calc(80 * var(--u));
+}
+
+.m2 .noir {
+    width: calc(115 * var(--u));
+    height: calc(60 * var(--u));
+}
+
+.m2 .blanc {
+    width: calc(115 * var(--u));
+    height: calc(60 * var(--u));
+}
+
+.m3 .noir {
+    width: calc(200 * var(--u));
+    height: calc(70 * var(--u));
+}
+
+.m3 .blanc {
+    width: calc(180 * var(--u));
+    height: calc(70 * var(--u));
+}
+
+.m4 .noir {
+    width: calc(320 * var(--u));
+    height: calc(50 * var(--u));
+}
+
+.m4 .blanc {
+    width: calc(320 * var(--u));
+    height: calc(50 * var(--u));
+} 
