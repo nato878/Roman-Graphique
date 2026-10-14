@@ -35,7 +35,7 @@ export default function Defred(){
                 </div>
             </div>
             <div className="section" id="obeïssance">
-                <img src= "./public/obeïssance.jpeg" alt="Obeïssance" />
+                <img src= "Obeissance.jpeg" alt="Obeïssance" />
                 <div className="text">
                     <h2>L’obéïssance</h2>
                     <p>

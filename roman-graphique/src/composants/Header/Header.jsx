@@ -5,7 +5,7 @@ export  default function Header(){
         <>
         <header >
             <div id="head">
-            <img src="./public/eyes1.jpg" className="logo" alt="eyes" />
+            <img src="eyes1.jpg" className="logo" alt="eyes" />
             <span>République de Galaad</span>
             </div>
             <nav className="nav-button">
