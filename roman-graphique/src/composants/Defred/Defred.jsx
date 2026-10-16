@@ -25,7 +25,7 @@ export default function Defred(){
                 <img src= "esclavage_sexuel.jpeg" alt="sexuel" />
                 <div className="text">
                     <h2>L’esclavage sexuel</h2>
-                    <p>
+                    <p className="text-color">
                         Defred est assignée à un Commandant en raison de sa capacité à avoir des enfants. 
                         Elle est soumise à des rapports sexuels ritualisés et non consentis, organisés par le 
                         régime dans le but de provoquer une grossesse. Le corps de Defred est principalement considéré comme un moyen de procréer. 
@@ -37,7 +37,7 @@ export default function Defred(){
             <div className="section" id="obeïssance">
                 <img src= "Obeissance.jpeg" alt="Obeïssance" />
                 <div className="text">
-                    <h2>L’obéïssance</h2>
+                    <h2>L’obéïssance </h2>
                     <p>
                        Defred doit obéir aux règles imposées par le Commandant.
                         Elle se soumet principalement par peur des sanctions et pour survivre dans la
