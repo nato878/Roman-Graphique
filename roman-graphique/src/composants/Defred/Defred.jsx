@@ -44,8 +44,8 @@ export default function Defred(){
                         société de Galaad. Cette obéissance limite sa liberté et l’empêche de vivre selon
                         ses propres choix. Toutefois, obéir ne signifie pas qu’elle accepte les règles du
                         régime. Elle cherche à protéger sa vie tout en conservant ses pensées et
-                        ses opinions personnelles. Bref, Son obéissance constitue alors un moyen de survie dans un système 
-                        où la désobéissance peut entraîner de graves conséquences.
+                        ses opinions personnelles. Bref, son obéissance constitue alors un moyen de survie dans un système 
+                        où la désobéissance peut entraîner de graves conséquences, voir la mort.
                     </p>
                 </div>
             </div>
