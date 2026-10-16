@@ -15,7 +15,9 @@ export  default function Header(){
                 <Link to= "/Defred">
                 <button className="nav-item" id="defred">Defred</button>
                 </Link>
-                <button className="nav-item">Moira</button>
+                <Link to= "/Moira">
+                <button className="nav-item" id="moira">Moira</button>
+                </Link>
             </nav>
         </header>
         </>

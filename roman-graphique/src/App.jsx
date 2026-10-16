@@ -7,6 +7,7 @@ import Header from './composants/Header/Header'
 import Footer from './composants/Footer/Footer'
 
 
+
 function App() {
   
 
@@ -18,6 +19,7 @@ function App() {
    
       <Route path='/' element ={<Accueil/>}/>
       <Route path='/Defred' element = {<Defred/>} />
+ 
     </Routes>
       <Footer/>
     </BrowserRouter>

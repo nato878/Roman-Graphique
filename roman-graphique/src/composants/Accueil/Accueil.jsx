@@ -8,22 +8,22 @@ export default function Accueil(){
         <div className="contenu">
             <div className="bloc_A">
                 <h1>Vivre sous oppression </h1>
-                <img src="Accueil.jpeg" alt="accueil" onClick={() => naviguer("Defred")} />
+                <img src="Accueil.jpeg" alt="accueil" onClick={() => naviguer("/Defred")} />
             </div>
             <div className="bloc_B">
                 <h1>Vivre sous la lumière </h1>
-                <img src="images.jpg" alt="Moira" onClick={() => naviguer("Moira")} />
+                <img src="images.jpg" alt="Moira" onClick={() => naviguer("/Moira")} />
             </div>
             
     
         </div>
         
-            <div class="escalier">
-                <div class="marche m0"><div class="noir"></div><div class="blanc"></div></div>
-                <div class="marche m1"><div class="noir"></div><div class="blanc"></div></div>
-                <div class="marche m2"><div class="noir"></div><div class="blanc"></div></div>
-                <div class="marche m3"><div class="noir"></div><div class="blanc"></div></div>
-                <div class="marche m4"><div class="noir"></div><div class="blanc"></div></div>
+            <div className="escalier">
+                <div className="marche m0"><div className="noir"></div><div className="blanc"></div></div>
+                <div className="marche m1"><div className="noir"></div><div className="blanc"></div></div>
+                <div className="marche m2"><div className="noir"></div><div className="blanc"></div></div>
+                <div className="marche m3"><div className="noir"></div><div className="blanc"></div></div>
+                <div className="marche m4"><div className="noir"></div><div className="blanc"></div></div>
             </div>
     </div>
     </>
