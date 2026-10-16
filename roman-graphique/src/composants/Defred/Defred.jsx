@@ -11,7 +11,7 @@ export default function Defred(){
             <div className="section" id="masquer">
                 <img src= "masquer_Emotions.jpeg" alt="emotion" />
                 <div className="text" >
-                    <h2>Masques les émotions et Perte d'identité</h2>
+                    <h2>Le masquage des émotions et la perte d'identité</h2>
                     <p>
                         Defred ne peut pas toujours montrer ce qu’elle ressent réellement. 
                         Elle doit constamment faire attention à son comportement, à ses paroles et à ses expressions lorsqu’elle s’adresse à quelqu’un. 
@@ -50,8 +50,6 @@ export default function Defred(){
                 </div>
             </div>
             
-          
-
         </div>
         </section>
         
