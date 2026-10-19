@@ -13,11 +13,14 @@ export default function Defred(){
                 <div className="text" >
                     <h2>Le masquage des émotions et la perte d'identité</h2>
                     <p>
-                        Defred ne peut pas toujours montrer ce qu’elle ressent réellement. 
-                        Elle doit constamment faire attention à son comportement, à ses paroles et à ses expressions lorsqu’elle s’adresse à quelqu’un. 
-                        La République de Galaad a détruit une grande partie de son identité et de sa liberté. Elle est devenue la propriété d’un homme 
-                        et s’est vu attribuer un nouveau nom.
-                        Bref, Defred masque ses émotions et se voit imposer une nouvelle identité afin de se protéger et de survivre sous le régime de Galaad.
+                        Defred n’arrive pas à exprimer ce qu’elle ressent comme émotion. Dans l’image, on 
+                        lui pose la question de savoir si elle est heureuse, et elle répond qu’elle est 
+                        heureuse. Si elle répond qu’elle n’est pas heureuse, elle devra se justifier devant son 
+                        maître. C’est pour cela que le personnage doit faire attention à son comportement 
+                        et à ses expressions lorsqu’elle parle aux gens ou à son maître. La République de 
+                        Galaad a détruit son identité, notamment son nom, son passé et sa liberté. Defred 
+                        est devenue la propriété d’un homme. Pour survivre, elle masque ses émotions afin 
+                        de se protéger.
                     </p>
                 </div>
             </div>
@@ -26,11 +29,14 @@ export default function Defred(){
                 <div className="text">
                     <h2>L’esclavage sexuel</h2>
                     <p className="text-color">
-                        Defred est assignée à un Commandant en raison de sa capacité à avoir des enfants. 
-                        Elle est soumise à des rapports sexuels ritualisés et non consentis, organisés par le 
-                        régime dans le but de provoquer une grossesse. Le corps de Defred est principalement considéré comme un moyen de procréer. 
-                        Elle ne peut pas décider librement de son avenir reproductif.
-                        Bref, Defred est réduite à un instrument de reproduction au service du régime.
+                    Defred est assignée à un Commandant en raison de sa capacité à concevoir. Elle est 
+                    soumise à des rapports sexuels non consentis, comme le montre l’image. Ces 
+                    rapports sexuels ont uniquement pour but de faire des enfants pour le Commandant. 
+                    Ils sont ritualisés, sans intimité ni désir partagé. Defred est réduite à un instrument 
+                    de reproduction au service du Commandant. Elle lui appartient. Toutes les filles 
+                    rouges sont considérées comme des outils de procréation dans la République de 
+                    Galaad. Leurs droits et leur dignité sont bafoués, et elles sont contraintes de se soumettre à des pratiques sexuelles
+                    dégradantes et humiliantes.
                     </p>
                 </div>
             </div>
