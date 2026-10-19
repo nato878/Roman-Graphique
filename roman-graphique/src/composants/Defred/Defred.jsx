@@ -39,13 +39,15 @@ export default function Defred(){
                 <div className="text">
                     <h2>L’obéïssance </h2>
                     <p>
-                       Defred doit obéir aux règles imposées par le Commandant.
-                        Elle se soumet principalement par peur des sanctions et pour survivre dans la
-                        société de Galaad. Cette obéissance limite sa liberté et l’empêche de vivre selon
-                        ses propres choix. Toutefois, obéir ne signifie pas qu’elle accepte les règles du
-                        régime. Elle cherche à protéger sa vie tout en conservant ses pensées et
-                        ses opinions personnelles. Bref, son obéissance constitue alors un moyen de survie dans un système 
-                        où la désobéissance peut entraîner de graves conséquences, voir la mort.
+                        Le personnage est obligé d’obéir aux règles imposées par son commandant et par la 
+                        femme de son commandant pour assurer sa survie. Elle doit faire tout ce qu’on lui 
+                        dit de faire sans poser de questions, et elle ne doit en aucun cas faire ce qu’on ne lui 
+                        a pas ordonné de faire. Sinon, cela pourrait lui coûter la vie. Cette obéissance limite 
+                        sa liberté et l’empêche de vivre selon ses propres choix. L’obéissance du
+                        personnage lui permet d’échapper aux sanctions si elle ne conteste pas ce que son 
+                         maître ou la femme de son maître lui demande de faire. Cela protège sa vie tout en 
+                         lui permettant de conserver ses pensées et ses opinions personnelles, car désobéir 
+                         entraîne de graves conséquences, voire la mort.
                     </p>
                 </div>
             </div>
