@@ -1,0 +1,96 @@
+.container-moira {
+
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+
+}
+
+.section-moira {
+    background: linear-gradient(to right, black, white);
+
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 8px;
+
+}
+
+.section img {
+    margin-top: 25px;
+
+    width: 260px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+
+}
+
+.section h2 {
+    font-size: 24px;
+
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+}
+
+.text {
+    flex: 1;
+}
+#jete h2{
+    color: white;
+}
+p {
+    color: white;
+}
+
+.text p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#violence {
+    background-color: hsla(0, 78%, 44%, 0.872);
+}
+
+#jete {
+    background-color: #100f0f;
+}
+
+#choix {
+    background-color: rgb(147, 141, 141);
+}
+
+.reverse {
+    flex-direction: row-reverse;
+    margin-top: 25px;
+}
+
+.text h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-color {
+    color: #000000;
+}
+
+@media (max-width: 600px) {
+    .section img {
+        width: 100px;
+        height: 150px;
+    }
+}

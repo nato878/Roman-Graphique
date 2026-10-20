@@ -10,7 +10,7 @@
 }
 img {
   height: 350px;
-  width: 350px;
+  width: 425px;
   border-radius: 8px;
 }
 h2 {
@@ -23,7 +23,7 @@ h2 {
 
 
 .page{
-    background: linear-gradient(to right, #171111, #eadddd);
+    background: linear-gradient(to right, black, white);
 }
 .contenu h1 {
 
@@ -37,10 +37,10 @@ h2 {
 /* Images bien visibles, jamais déformées */
 
 
-/* ---------- Escalier (en bas, centré sur la ligne entre A et B) ---------- */
+
 .escalier {
     --u: 1.3px;
-    /* taille de l'escalier (augmente pour le agrandir) */
+   
     align-self: center;
     display: flex;
     flex-direction: column;

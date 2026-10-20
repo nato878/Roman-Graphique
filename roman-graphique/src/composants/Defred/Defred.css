@@ -8,7 +8,7 @@
     
 }
 section {
-  background-color: #c5b5b5;
+  background: linear-gradient(to right, black, white);
     
 }
 
@@ -49,10 +49,10 @@ h1 {
     text-align: justify;
 }
 #masquer{
-    background-color: hsla(0, 0%, 94%, 0.872);
+    background-color: hsla(0, 10%, 18%, 0.872);
 }
 #obeïssance {
-    background-color: #ebc1c1;
+    background-color: #a71010;
 }
 #esclavage {
     background-color: #768282;

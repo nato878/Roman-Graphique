@@ -7,14 +7,14 @@ export default function Accueil(){
     <div className="page">
         <div className="contenu">
             <div className="bloc_A">
-                <h1>Vivre sous oppression </h1>
+                <h1>Vivre sous l'oppression </h1>
                 <h2>Defred</h2>
-                <img src="Accueil.jpeg" alt="accueil" onClick={() => naviguer("/Defred")} />
+                <img src="Defred.jpeg" alt="accueil" onClick={() => naviguer("/Defred")} />
             </div>
             <div className="bloc_B">
-                <h1>Vivre sous la lumière </h1>
+                <h1>Le chemin de la vérité </h1>
                 <h2>Moira</h2>
-                <img src="images.jpg" alt="Moira" onClick={() => naviguer("/Moira")} />
+                <img src="MoiraAccueil.jpeg" alt="Moira" onClick={() => naviguer("/Moira")} />
             </div>
             
     
